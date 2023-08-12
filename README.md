@@ -1,5 +1,6 @@
 # SmartRockets
-
+Note: Made with C++ 14 and the Raylib 3D Library.
+<br>
 Simple AI genetic algorithm for several rockets to reach the enemy spaceship.
 After each round or generation, rockets pass on and crossover dna from the mating pool
 that is created based on the distance and collision of the enemy spaceship for each rocket. 
